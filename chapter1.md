@@ -1,3 +1,13 @@
-# First Chapter
+#Chapter 1
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+###前言
+Java中[环境变量的配置](http://www.cnblogs.com/linjiqin/archive/2013/11/02/3403095.html)以及对JDK的我就不做过多的赘述，直接进入主题.
+
+###1.1 关键字和标识符
+
+关键字：赋予了特殊含义的单词，比如class之类的特殊含义的单词。
+标识符：在程序中定义的一些名称，比如类名，main也是，其只能有a-z,0-9,__,**$**，并且不可以用数字开头，不可以使用关键字，class _以及class **$**都是正确的。
+
++ 类名必须要大写，这是规范
+
+###1.2  

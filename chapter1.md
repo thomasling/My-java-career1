@@ -1,4 +1,4 @@
-#1.关键字及注释
+#关键字及注释
 
 ###前言
 Java中[环境变量的配置](http://www.cnblogs.com/linjiqin/archive/2013/11/02/3403095.html)以及对JDK的我就不做过多的赘述，直接进入主题.

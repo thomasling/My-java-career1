@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [关键字及注释](chapter1.md)
-* [2.常量变量及进制](chapter2.md)
+* [常量变量及进制](chapter2.md)
 

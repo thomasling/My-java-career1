@@ -56,7 +56,21 @@ class VarDemo
 {
     public static void main(String[] agrs)
     {
-    
+        //数据类型 变量名 = 初始值
+        byte  b = 3;
+        short s=4000;
+        int x=12;
+        long l=12121212l;  //最后要加一个l来标识长整数类型，不然编译会出错
+        float f =2.3f; //最后要加一个f来标识float类型
+        char ch ='a';  //分号一定要用英文符号
+        boolean b1= true;
+        
+        {
+            int z =2:
+            System.out.println(z);
+        }
+        System.out.println(z); //这里的z是打印不出来的因为变量只在一个大括号之内有效
+        
         System.out.println("hello")    
     }
 }

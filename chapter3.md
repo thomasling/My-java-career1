@@ -21,6 +21,7 @@ class VarDemo2
     
     
     System.out.println();
+    }
 }
 ```
 
